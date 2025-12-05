@@ -28,13 +28,12 @@
 | :--- | :--- |
 | **💻 编程语言** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python** - 我的主要研究语言 |
 | **🧠 深度学习框架** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) **PyTorch** - 因其灵活性和动态计算图而选择 |
-| **📊 社科研究与数据分析：** |
-![NVivo](https://img.shields.io/badge/NVivo-<你喜欢的颜色代码>?style=flat&logo=data:image/svg+xml;base64,<自定义base64>或&logo=text&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-<颜色代码>?style=flat&logo=ibm&logoColor=white)
+| **📊 社科研究与数据分析：** |**![NVivo](https://img.shields.io/badge/NVivo-<#003366>?style=flat&logo=data:image/svg+xml;base64,<自定义base64>)
+![SPSS](https://img.shields.io/badge/SPSS-<#054ADA>?style=flat&logo=ibm&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 *熟练处理定性/定量数据、进行深度访谈编码与统计分析*
 | **🔬 研究工具** | Jupyter Notebook, Git, Markdown |
-| **🎯 关注领域** | NLP、可解释AI(XAI)、心理学数据集 |
+| **🎯 关注领域** | NLP、可解释AI(XAI) 、智能精神健康干预、基于大模型的数字诊疗辅助系统|
 
 ---
 

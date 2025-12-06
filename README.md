@@ -30,10 +30,9 @@
 | **🧠 深度学习框架** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) **PyTorch** - 因其灵活性和动态计算图而选择 |
 | **📊 研究与数据分析：** |![NVivo](https://img.shields.io/badge/NVivo-003366?style=flat) ![SPSS](https://img.shields.io/badge/SPSS-054ADA?style=flat&logo=ibm&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)定性/定量数据分析、深度访谈编码与统计建模
 | **趁手工具** |
-- **Illustrator (AI)**: ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white) — 研究图表、概念图与界面原型绘制
-- **Photoshop (PS)**: ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) — 图像处理、海报与展示材料设计
-- **Premiere Pro (PR)**: ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white) — 研究演示视频、访谈资料剪辑
-- **Audition (AU)**: ![Audition](https://img.shields.io/badge/Audition-9999FF?style=flat&logo=adobeaudition&logoColor=white) — 音频处理、访谈录音整理
+![PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![PR](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
+![AU](https://img.shields.io/badge/Adobe%20Audition-9999FF?style=flat&logo=adobeaudition&logoColor=white)
 | **🎯 关注领域** | NLP、可解释AI(XAI) 、智能精神健康干预、基于大模型的数字诊疗辅助系统|
 ---
 

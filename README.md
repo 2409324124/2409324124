@@ -7,15 +7,46 @@
 > “helping people to help them self。”—— 将社会工作中的这句信条，带入我对电子信息技术与复杂世界的探索中。
 
 ---
-### 最新项目：从零实现 Seq2Seq（序列到序列）经典神经机器翻译 (2026.1 更新)
-- **仓库**：https://github.com/2409324124/seq2seq-nmt-from-scratch
-- **亮点**：纯 PyTorch框架 从头实现 LSTM + Attention 的 Encoder-Decoder 结构，支持简单句的英德翻译翻译任务。
-- **包含**：完整训练脚本、BLEU 评估、Loss/Attention 可视化、Gradio 交互 demo（已部署到 Hugging Face）。
-- **成果展示**：
-  - Loss 曲线：![loss curve](https://github.com/2409324124/seq2seq-nmt-from-scratch/raw/main/loss_curve_lstm.png)
-  - Attention 热图示例：![attention](https://github.com/2409324124/seq2seq-nmt-from-scratch/raw/main/attention_heatmap_example.jpeg)
-- **为什么重要**：这是我深度学习进阶的里程碑，从 MNIST 入门到 NLP 实战，验证了 Attention 机制在序列任务上的威力。
-- 欢迎 star / fork / 讨论！也欢迎合作 AI+心理学、社会学方向的项目～
+## 最新项目：从零实现 Seq2Seq + Bahdanau Attention 神经机器翻译 (2026.2 更新)
+
+**项目仓库**：https://github.com/2409324124/seq2seq-nmt-from-scratch
+
+纯 PyTorch 从头复刻经典 Seq2Seq 框架（Sutskever 2014 核心技巧 + Bahdanau Attention），在 Multi30k 数据集（德语 → 英语）上达到 **BLEU 56.3**（sacreBLEU，test set）——远超大多数教程水平。
+
+### 模型架构概览
+<p align="center">
+  <img src="https://github.com/2409324124/seq2seq-nmt-from-scratch/raw/main/model_architecture_bahdanau_lstm.png" 
+       alt="Bahdanau Attention + LSTM Seq2Seq 架构图" width="700"/>
+  <br>
+  <em>编码器 → 加性注意力 → 解码器（支持源句子反转 + input feeding）</em>
+</p>
+
+### 训练过程可视化
+<p align="center">
+  <img src="https://github.com/2409324124/seq2seq-nmt-from-scratch/raw/main/loss_curve_lstm.png" 
+       alt="训练 & 验证 Loss 曲线" width="600"/>
+  <br>
+  <em>蓝色：训练 Loss　　红色：验证 Loss　　最佳验证 Loss ≈4.34（早停）</em>
+</p>
+
+### 注意力机制解释性示例
+<p align="center">
+  <img src="https://github.com/2409324124/seq2seq-nmt-from-scratch/raw/main/attention_heatmap_example.jpeg" 
+       alt="注意力热图示例" width="600"/>
+  <br>
+  <em>横轴：德语源句（已反转）　　纵轴：生成的英语　　颜色深度 = 关注权重</em>
+</p>
+
+### 项目亮点 & 成果
+- LSTM + Bahdanau Attention 全链路实现（hidden=256~512，dropout=0.4，label smoothing）
+- 动态 teacher forcing + 梯度裁剪 + AdamW + 早停
+- Beam Search 解码 & sacreBLEU 评估
+- 实时 Gradio 翻译界面（已部署）：https://huggingface.co/spaces/xu2409324124/lstm-translator
+- 从零基础自学里程碑：MNIST CNN → GRU Seq2Seq → 这个高性能 NMT 项目
+
+欢迎点进仓库 star / fork / 试用 demo！也欢迎讨论优化方向（bidirectional、multi-head attention、pretrained embedding）或跨领域合作（AI + 心理学、社会学）。
+
+更多细节 & 运行指南 → [前往项目仓库](https://github.com/2409324124/seq2seq-nmt-from-scratch)
 --- 
 
 ## 🧠 我的背景故事：从人文关怀到技术实现

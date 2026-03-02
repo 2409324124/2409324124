@@ -21,15 +21,17 @@
   <em>编码器 → 加性注意力 → 解码器（支持源句子反转 + input feeding）</em>
 </p>
 
+
 ### 实时交互翻译 Demo（Gradio 界面）
+
 <p align="center">
-  <iframe src="https://huggingface.co/spaces/xu2409324124/lstm-translator/embed" 
-          frameborder="0" 
-          width="850" 
-          height="500" 
-          title="LSTM Translator - Try it live!"></iframe>
-  <br>
-  <em>直接在下面试试德语 → 英语翻译！（模型已部署在 Hugging Face Space）</em>
+  <a href="https://huggingface.co/spaces/xu2409324124/lstm-translator" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_立即体验实时翻译-FF4D4D?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000" alt="Try Live Demo"/>
+  </a>
+</p>
+
+<p align="center">
+  <em>支持德语 → 英语实时翻译，基于我们从零实现的 LSTM + Bahdanau Attention 模型</em>
 </p>
 
 ### 训练过程可视化

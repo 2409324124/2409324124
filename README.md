@@ -2,9 +2,9 @@
 
 **`独立研究者 | 硬件实践者 | 深度学习探索者`**
 
-我是一名从**名为社会的规劝地狱**走来的跨学科探索者。我深信，**深度学习的未来不在于创造更孤立的智能，而在于构建更能理解人、关怀人的技术，实现每个人的成长**。
+我是一名从**名为社会的规劝**走来的跨学科探索者。我深信，**深度学习的未来不在于创造更孤立的智能，而在于构建更能理解人、关怀人的技术，实现每个人的成长**。
 
-> “helping people to help them self。”—— 将社会工作中的这句信条，带入我对电子信息技术与复杂世界的探索中。
+> “助人自助。”—— 将社会工作中的这句信条，带入我对电子信息技术与复杂世界的探索中。
 
 ---
 ## 最新项目：从零实现 Seq2Seq + Bahdanau Attention 神经机器翻译 (2026.2 更新)
@@ -79,20 +79,39 @@
 我正在积极构建我的技术栈，每一步都力求稳固：
 
 <p align="center">
+  <!-- 核心编程与深度学习 -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Gradio-3E8EFB?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"/>
   <br><br>
+
+  <!-- 现代 AI Agent 工具 -->
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75FF?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/Coze-FF6A00?style=for-the-badge&logo=coze&logoColor=white" alt="Coze"/>
+  <img src="https://img.shields.io/badge/AI%20Agent-FF4D4D?style=for-the-badge&logo=robot&logoColor=white" alt="AI Agent"/>
+  <br><br>
+
+  <!-- 数据科学与研究工具 -->
+  <img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <br><br>
+
+  <!-- Adobe 创意工具 -->
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro"/>
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="After Effects"/>
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
   <br><br>
+
+  <!-- 本地推理与传统研究工具 -->
   <img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
   <img src="https://img.shields.io/badge/NVivo-003366?style=for-the-badge&logoColor=white" alt="NVivo"/>
   <img src="https://img.shields.io/badge/SPSS-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 </p>
-
 | 类别              | 正在学习/使用 |
 |-------------------|---------------|
 | **💻 编程语言**   | Python（主要研究语言） |
@@ -127,7 +146,7 @@
 - **🚀 Google Antigravity（反重力）**：深度使用 Google 最新发布的 Agent-first IDE，搭配 Gemini 3 Pro 进行「Vibe Coding」（氛围编码），直接把想法变成完整可运行的全栈应用
 - **🌟 Coze 平台**：在字节跳动 Coze 上快速搭建多模态 Agent 与复杂工作流，支持无代码/低代码高效开发与跨平台部署
 
-这些前沿工具将与我的**计算心理学 + 深度学习 + 人文关怀**背景深度融合，目标是做出真正能理解人、帮助人的智能应用。 下一步：Playground Series + NLP/CV 专题
+这些前沿工具将与我的**计算心理学 + 深度学习 + 人文关怀**背景深度融合，目标是做出真正能理解人、帮助人的智能应用。 
 
 ## 📮 与我连接
 

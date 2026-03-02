@@ -112,6 +112,8 @@
   <img src="https://img.shields.io/badge/SPSS-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 </p>
+---
+
 | 类别              | 正在学习/使用 |
 |-------------------|---------------|
 | **💻 编程语言**   | Python（主要研究语言） |

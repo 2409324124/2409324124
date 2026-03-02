@@ -21,6 +21,17 @@
   <em>编码器 → 加性注意力 → 解码器（支持源句子反转 + input feeding）</em>
 </p>
 
+### 实时交互翻译 Demo（Gradio 界面）
+<p align="center">
+  <iframe src="https://huggingface.co/spaces/xu2409324124/lstm-translator/embed" 
+          frameborder="0" 
+          width="850" 
+          height="500" 
+          title="LSTM Translator - Try it live!"></iframe>
+  <br>
+  <em>直接在下面试试德语 → 英语翻译！（模型已部署在 Hugging Face Space）</em>
+</p>
+
 ### 训练过程可视化
 <p align="center">
   <img src="https://github.com/2409324124/seq2seq-nmt-from-scratch/raw/main/loss_curve_lstm.png" 
@@ -65,49 +76,66 @@
 
 我正在积极构建我的技术栈，每一步都力求稳固：
 
-| 类别 | 正在学习/使用 |
-| :--- | :--- |
-| **💻 编程语言** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python** - 我的主要研究语言 |
-| **🧠 深度学习框架** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) **PyTorch** - 因其灵活性和动态计算图而选择 |
-| **📊 研究与数据分析：** |![NVivo](https://img.shields.io/badge/NVivo-003366?style=flat) ![SPSS](https://img.shields.io/badge/SPSS-054ADA?style=flat&logo=ibm&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)定性/定量数据分析、深度访谈编码与统计建模
-| **🎯 关注领域** | NLP、可解释AI(XAI) 、智能精神健康干预、深度学习|
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro"/>
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="After Effects"/>
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/NVivo-003366?style=for-the-badge&logoColor=white" alt="NVivo"/>
+  <img src="https://img.shields.io/badge/SPSS-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+</p>
+
+| 类别              | 正在学习/使用 |
+|-------------------|---------------|
+| **💻 编程语言**   | Python（主要研究语言） |
+| **🧠 深度学习框架** | PyTorch（灵活动态图首选） + Ollama（本地大模型推理） |
+| **🎨 创意/视频工具** | Photoshop, Premiere Pro, After Effects, Illustrator |
+| **📊 研究与数据分析** | NVivo（定性编码）、SPSS（统计）、Excel（基础建模） |
+| **🎯 关注领域**   | NLP、可解释AI(XAI)、智能精神健康干预、深度学习 |
+
 ---
 
 ## 📂 项目与探索
 这里记录我“从零到一”的学习与实践历程，从基础笔记到完整 NLP 项目，逐步构建系统能力：
 
 | 项目 | 描述 | 状态 |
-| :--- | :--- | :--- |
+|------|------|------|
 | **🔬 [计算心理学](https://github.com/2409324124/Computational-Psychology)** | 系统梳理 AI 与心理学研究的经典与前沿论文，探索技术如何服务人类心理健康。 | **持续更新** |
-| **📖 [深度学习学习笔记](https://github.com/2409324124/Deep-Learning-Notes)** | 用清晰的 Markdown 记录核心概念、数学推导和代码示例。坚信“教是最好的学”。 | **核心仓库** |
 | **🧠 [Seq2Seq 神经机器翻译从零实现](https://github.com/2409324124/seq2seq-nmt-from-scratch)** | 纯 PyTorch 从头复现 LSTM + Attention 的 Seq2Seq 模型（Multi30k 德→英翻译），包含完整训练、BLEU 评估、Loss/Attention 可视化、Gradio 交互 demo（已部署 Hugging Face）。最新里程碑：BLEU 56.3，Gradio 实时翻译体验。 | **最新完成 & 持续优化** |
 
 ---
 
 ## 🌱 当前聚焦
-1. **夯实基础 → 实战落地**  
-   通过吴恩达《深度学习专项课程》和李沐《动手学深度学习》构建系统知识树后，立刻转向完整项目实践。最新成果：[seq2seq-nmt-from-scratch](https://github.com/2409324124/seq2seq-nmt-from-scratch) —— 从零实现 Seq2Seq + Attention，验证了注意力机制在序列任务上的威力，并部署了可交互 demo。
 
-2. **社区参与 & 跨领域探索**  
-   积极参与 AI for Good、AI+Science 相关的开源项目与讨论。未来方向：将 NLP/可解释 AI 技术应用于心理学领域（如智能精神健康干预、情绪识别与共情建模）。
+我正在全力探索新一代 AI 开发范式与智能体工程：
 
-3. **下一步计划**  
-   - 扩展 seq2seq 项目：尝试 Transformer 架构对比、更大语料、多语言支持  
-   - 开启 AI + 心理学小实验：基于现有模型做情绪文本生成或心理咨询对话模拟  
-从 seq2seq NMT 转向 Kaggle 实战，目标：积累端到端项目经验，冲击 medal。
-- 已完成/进行中：Titanic, Digit Recognizer, House Prices
-- 下一步：Playground Series + NLP/CV 专题（如 Toxic Comment 或图像分类）
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Agent-FF4D4D?style=for-the-badge&logo=robot&logoColor=white" alt="AI Agent"/>
+  <img src="https://img.shields.io/badge/Antigravity%20(Vibe%20Coding)-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity"/>
+  <img src="https://img.shields.io/badge/Coze-FF6A00?style=for-the-badge&logo=coze&logoColor=white" alt="Coze"/>
+</p>
+
+- **🤖 AI Agent 系统**：构建自主规划、工具调用、多代理协作的智能体应用
+- **🚀 Google Antigravity（反重力）**：深度使用 Google 最新发布的 Agent-first IDE，搭配 Gemini 3 Pro 进行「Vibe Coding」（氛围编码），直接把想法变成完整可运行的全栈应用
+- **🌟 Coze 平台**：在字节跳动 Coze 上快速搭建多模态 Agent 与复杂工作流，支持无代码/低代码高效开发与跨平台部署
+
+这些前沿工具将与我的**计算心理学 + 深度学习 + 人文关怀**背景深度融合，目标是做出真正能理解人、帮助人的智能应用。 下一步：Playground Series + NLP/CV 专题
+
 ## 📮 与我连接
-
----
 
 我深知跨学科之路需要与更多元的头脑交流。欢迎交流任何想法：
 
-*   **💌 邮箱：xu2409324124@gmail.com 
-*   **🐱 GitHub:** [@东云](https://github.com/2409324124) - *你正在访问的地方*
-*   **📝 技术博客/笔记站：** 
+- **💌 邮箱**：xu2409324124@gmail.com  
+- **🐱 GitHub**：[@2409324124](https://github.com/2409324124) —— 你正在访问的地方  
+- **📝 技术博客/笔记站**：（待补充）
 
-> **✨ 协作邀请：** 如果你也对**深度学习、心理学、神经科学或任何致力于理解人类的技术**感兴趣，或者你正在从事相关研究，我非常期待与你对话。
+> **✨ 协作邀请**：如果你也对**深度学习、心理学、神经科学或任何致力于理解人类的技术**感兴趣，或者你正在从事相关研究，我非常期待与你对话。
 
 ---
 *这份简介本身也是一个持续学习的项目，它会随着我的认知迭代而不断演化。*

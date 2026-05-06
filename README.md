@@ -41,31 +41,7 @@
 | [adaptive_psych_system](https://github.com/2409324124/adaptive_psych_system) | 自适应心理测评系统|费舍尔信息论与 PyTorch 实现|
 | [seq2seq-nmt-from-scratch](https://github.com/2409324124/seq2seq-nmt-from-scratch) | 深度学习 / NLP | 复刻经典模型，现已包含LSTM、GRU、transform等 |
 | [mnist-cnn-my-first-dl-project](https://github.com/2409324124/mnist-cnn-my-first-dl-project) | 深度学习入门 | 我的第一个深度学习项目：MNIST 手写数字识别 CNN |
-| [Computational-Psychology](https://github.com/2409324124/Computational-Psychology) | 计算心理学 | 系统整理 AI 与心理学交叉研究，记录经典论文、前沿方向和可落地问题。 |
 | [kaggle](https://github.com/2409324124/kaggle) | 数据科学 | 数据竞赛与建模练习，用真实数据训练分析、建模和实验习惯。 |
-
----
-
-## Seq2Seq 项目亮点
-
-这个项目是我目前最完整的一次深度学习复现实践：
-
-- 从零实现 Encoder、Decoder、Bahdanau Attention、teacher forcing、梯度裁剪、Beam Search 和 sacreBLEU 评估。
-- 在 Multi30k 德语到英语翻译任务上完成完整训练流程，测试集 BLEU 达到 **56.3**。
-- 提供 Loss 曲线、注意力热图和可交互翻译 Demo。
-
-<p align="center">
-  <a href="https://github.com/2409324124/seq2seq-nmt-from-scratch">
-    <img src="https://img.shields.io/badge/Repository-Seq2Seq%20NMT-2F80ED?style=for-the-badge&logo=github" alt="Seq2Seq Repository"/>
-  </a>
-  <a href="https://huggingface.co/spaces/xu2409324124/lstm-translator">
-    <img src="https://img.shields.io/badge/Live%20Demo-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Live Demo"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/2409324124/seq2seq-nmt-from-scratch/raw/main/model_architecture_bahdanau_lstm.png" alt="Bahdanau Attention + LSTM Seq2Seq 架构图" width="680"/>
-</p>
 
 ---
 
@@ -156,18 +132,6 @@
   </tr>
 </table>
 
----
-
-## 我的路径
-
-**社会工作者**<br>
-在社区和社会服务场景中理解人的处境、关系、支持系统与真实需求。
-
-**硬件实践者**<br>
-在电子制造与硬件流程中训练精密操作、质量意识和结构化解决问题的习惯。
-
-**深度学习探索者**<br>
-用代码、实验和论文阅读，把“理解人”的问题推进到可计算、可解释、可验证的层面。
 
 ---
 

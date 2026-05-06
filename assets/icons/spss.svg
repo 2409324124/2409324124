@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">SPSS</title>
+  <desc id="desc">A high resolution SPSS-style statistics icon.</desc>
+  <defs>
+    <linearGradient id="bg" x1="16" y1="12" x2="112" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2f80ed"/>
+      <stop offset="1" stop-color="#063f8f"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="40" y1="82" x2="88" y2="28" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d7ecff"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="24" fill="url(#bg)"/>
+  <path d="M32 88h64" stroke="#ffffff" stroke-width="8" stroke-linecap="round" opacity=".95"/>
+  <path d="M42 78V58m22 20V40m22 38V50" stroke="url(#bar)" stroke-width="12" stroke-linecap="round"/>
+  <path d="M34 91c13-2 22-10 30-21 8-12 17-26 31-32" fill="none" stroke="#a9dcff" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="34" cy="91" r="4" fill="#ffffff"/>
+  <circle cx="64" cy="70" r="4" fill="#ffffff"/>
+  <circle cx="95" cy="38" r="4" fill="#ffffff"/>
+  <text x="64" y="111" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#ffffff">SPSS</text>
+</svg>

@@ -131,7 +131,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ibm.svg" width="56" height="56" alt="SPSS"/><br>
+      <img src="https://raw.githubusercontent.com/2409324124/2409324124/main/assets/icons/spss.svg" width="56" height="56" alt="SPSS"/><br>
       <sub>SPSS</sub>
     </td>
     <td align="center" width="96">

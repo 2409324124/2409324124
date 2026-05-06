@@ -38,11 +38,10 @@
 
 | 项目 | 方向 | 简介 |
 | --- | --- | --- |
-| [adaptive_psych_system](https://github.com/2409324124/adaptive_psych_system) | AI + 心理系统 | 面向心理支持与自适应交互的应用探索，正在把心理学视角和智能系统工程结合起来。 |
-| [seq2seq-nmt-from-scratch](https://github.com/2409324124/seq2seq-nmt-from-scratch) | 深度学习 / NLP | 纯 PyTorch 从零实现 LSTM + Bahdanau Attention 神经机器翻译，在 Multi30k 德语到英语任务上完成训练、BLEU 评估、可视化和 Gradio Demo。 |
-| [mnist-cnn-my-first-dl-project](https://github.com/2409324124/mnist-cnn-my-first-dl-project) | 深度学习入门 | 我的第一个深度学习项目：MNIST 手写数字识别 CNN，从数据、模型到训练流程完整走通。 |
+| [adaptive_psych_system](https://github.com/2409324124/adaptive_psych_system) | 自适应心理测评系统|费舍尔信息论与 PyTorch 实现|
+| [seq2seq-nmt-from-scratch](https://github.com/2409324124/seq2seq-nmt-from-scratch) | 深度学习 / NLP | 复刻经典模型，现已包含LSTM、GRU、transform等 |
+| [mnist-cnn-my-first-dl-project](https://github.com/2409324124/mnist-cnn-my-first-dl-project) | 深度学习入门 | 我的第一个深度学习项目：MNIST 手写数字识别 CNN |
 | [Computational-Psychology](https://github.com/2409324124/Computational-Psychology) | 计算心理学 | 系统整理 AI 与心理学交叉研究，记录经典论文、前沿方向和可落地问题。 |
-| [Deep-Learning-Notes](https://github.com/2409324124/Deep-Learning-Notes) | 学习笔记 | 深度学习学习笔记与心得，记录概念、代码实验和阶段性理解。 |
 | [kaggle](https://github.com/2409324124/kaggle) | 数据科学 | 数据竞赛与建模练习，用真实数据训练分析、建模和实验习惯。 |
 
 ---

@@ -72,29 +72,90 @@
 
 ## 技术栈
 
-**编程与深度学习**
+### 编程与深度学习
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="56" height="56" alt="Python"/><br>
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="56" height="56" alt="PyTorch"/><br>
+      <sub>PyTorch</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="56" height="56" alt="NumPy"/><br>
+      <sub>NumPy</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="56" height="56" alt="Pandas"/><br>
+      <sub>Pandas</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="56" height="56" alt="Jupyter"/><br>
+      <sub>Jupyter</sub>
+    </td>
+  </tr>
+</table>
 
-**AI 工具与应用**
+### AI 工具与应用
 
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Gradio](https://img.shields.io/badge/Gradio-3E8EFB?style=flat-square&logo=gradio&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![AI Agent](https://img.shields.io/badge/AI%20Agent-FF4D4D?style=flat-square)
-![Coze](https://img.shields.io/badge/Coze-FF6A00?style=flat-square)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/huggingface.svg" width="56" height="56" alt="Hugging Face"/><br>
+      <sub>Hugging Face</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gradio.svg" width="56" height="56" alt="Gradio"/><br>
+      <sub>Gradio</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ollama.svg" width="56" height="56" alt="Ollama"/><br>
+      <sub>Ollama</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/lucide:bot.svg?color=%23FF4D4D" width="56" height="56" alt="AI Agent"/><br>
+      <sub>AI Agent</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/coze.svg" width="56" height="56" alt="Coze"/><br>
+      <sub>Coze</sub>
+    </td>
+  </tr>
+</table>
 
-**研究与创作**
+### 研究与创作
 
-![SPSS](https://img.shields.io/badge/SPSS-054ADA?style=flat-square&logo=ibm&logoColor=white)
-![NVivo](https://img.shields.io/badge/NVivo-003366?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ibm.svg" width="56" height="56" alt="SPSS"/><br>
+      <sub>SPSS</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/material-symbols:analytics-outline-rounded.svg?color=%23003366" width="56" height="56" alt="NVivo"/><br>
+      <sub>NVivo</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftexcel.svg" width="56" height="56" alt="Excel"/><br>
+      <sub>Excel</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="56" height="56" alt="Adobe Photoshop"/><br>
+      <sub>Photoshop</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="56" height="56" alt="Adobe Premiere Pro"/><br>
+      <sub>Premiere Pro</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="56" height="56" alt="Adobe Illustrator"/><br>
+      <sub>Illustrator</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 

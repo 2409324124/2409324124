@@ -22,6 +22,14 @@
 
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2409324124/2409324124/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2409324124/2409324124/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/2409324124/2409324124/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
 苍天弃子岁凄茫，父辈残灰化冢乡。<br>
 束发从军无妄念，前驱陷阵死何妨。<br>
 长空暴烁撕天地，业火狂燃灭未央。<br>
@@ -45,10 +53,9 @@
 
 | 项目 | 方向 | 简介 |
 | --- | --- | --- |
-| [adaptive_psych_system](https://github.com/2409324124/adaptive_psych_system) | 自适应心理测评系统|费舍尔信息论与 PyTorch 实现|
-| [seq2seq-nmt-from-scratch](https://github.com/2409324124/seq2seq-nmt-from-scratch) | 深度学习 / NLP | 复刻经典模型，现已包含LSTM、GRU、transform等 |
-| [mnist-cnn-my-first-dl-project](https://github.com/2409324124/mnist-cnn-my-first-dl-project) | 深度学习入门 | 我的第一个深度学习项目：MNIST 手写数字识别 CNN |
-| [kaggle](https://github.com/2409324124/kaggle) | 数据科学 | 数据竞赛与建模练习，用真实数据训练分析、建模和实验习惯。 |
+| [adaptive_psych_system](https://github.com/2409324124/adaptive_psych_system) | AI + 心理测评 | 基于费舍尔信息论与 PyTorch 的自适应心理测评系统，探索更高效、个体化的心理状态评估。 |
+| [Qwen-Desktop-Assistant-Classic](https://github.com/2409324124/Qwen-Desktop-Assistant-Classic) | AI Agent / 桌面助手 | 基于 Qwen 的经典桌面助手项目，聚焦本地工具调用、交互体验与真实任务执行。 |
+| [xeon-max-9470c-benchmarks](https://github.com/2409324124/xeon-max-9470c-benchmarks) | 性能测试 / Benchmark | 面向 Intel Xeon Max 9470C 的基准测试记录，用实验数据评估硬件性能与计算负载表现。 |
 
 ---
 

@@ -1,163 +1,183 @@
-<h1 align="center">你好，我是东云</h1>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/shinonome-bbs-mobile.svg" />
+  <img src="assets/shinonome-bbs.svg" width="840" alt="Shinonome / 东云" />
+</picture>
 
-<p align="center">
-  独立研究者 / 职业社会工作者 / 深度学习与 AI Agent 探索者
-</p>
+[`[HOME]`](https://shinonome.xyz/) · [`[EXHIBITION]`](https://portfolio.shinonome.xyz/) · [`[BBS]`](https://bbs.shinonome.xyz/) · [`[MAIL]`](mailto:jzhou2409324124@gmail.com)
 
-<p align="center">
-  <a href="https://github.com/2409324124">
-    <img src="https://img.shields.io/badge/GitHub-2409324124-181717?style=flat-square&logo=github" alt="GitHub"/>
-  </a>
-  <a href="mailto:xu2409324124@gmail.com">
-    <img src="https://img.shields.io/badge/Email-xu2409324124%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://huggingface.co/spaces/xu2409324124/lstm-translator">
-    <img src="https://img.shields.io/badge/HuggingFace-LSTM%20Translator-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Space"/>
-  </a>
-</p>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/section-projects-mobile.svg" />
+  <img src="assets/section-projects.svg" width="840" alt="01 / 项目目录" />
+</picture>
 
-<p align="center">
-  <strong>你有曾想过，假如我们是错的呢？</strong>
-</p>
+<a href="https://shinonome.xyz/tu22/">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/project-tu22-mobile.svg" />
+  <img src="assets/project-tu22.svg" width="840" alt="TU22 · Tu-22M3 浏览器飞行游戏，需桌面键盘操作。" />
+</picture>
+</a>
 
+[`[01 PLAY]`](https://shinonome.xyz/tu22/)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2409324124/2409324124/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2409324124/2409324124/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/2409324124/2409324124/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<a href="https://shinonome.xyz/cat-psych">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/project-cat-mobile.svg" />
+  <img src="assets/project-cat.svg" width="840" alt="CAT-Psych · 基于 MIRT / CAT 的中文大五人格自适应测评。" />
+</picture>
+</a>
 
-<p align="center">
-苍天弃子岁凄茫，父辈残灰化冢乡。<br>
-束发从军无妄念，前驱陷阵死何妨。<br>
-长空暴烁撕天地，业火狂燃灭未央。<br>
-莫认浮光充圣主，空留幻影掩凄凉。<br>
-他乡路客来寻问，且代孤魂诉冷霜。<br>
-铁纪生前甘愿受，长留傲骨镇寒疆！
-</p>
+[`[02 TRY]`](https://shinonome.xyz/cat-psych) · [`[SOURCE]`](https://github.com/2409324124/adaptive_psych_system)
 
----
+<a href="https://preploop.shinonome.xyz/">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/project-prep-mobile.svg" />
+  <img src="assets/project-prep.svg" width="840" alt="PrepLoop · 算法、Agent Harness 和系统设计的间隔复习工具。" />
+</picture>
+</a>
 
-## 当前聚焦
+[`[03 OPEN]`](https://preploop.shinonome.xyz/)
 
-- **AI + 心理健康**：探索情绪识别、心理状态评估、社会行为模式分析与智能干预。
-- **深度学习基础能力**：从 CNN、Seq2Seq、Attention 到可解释模型，重视从零实现和实验复现。
-- **AI Agent 工程**：关注工具调用、多代理协作、研究自动化与面向真实任务的智能体系统。
-- **计算心理学阅读与整理**：持续梳理心理学、认知科学、NLP 与可解释 AI 交叉方向的论文和实践。
+<a href="https://2409324124.github.io/xeon-max-9470c-benchmarks/report/">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/project-xeon-mobile.svg" />
+  <img src="assets/project-xeon.svg" width="840" alt="Xeon Max 9470C · 稀有硬件 Bench 测评 + CPU 推理，HBM / AMX / NUMA。" />
+</picture>
+</a>
 
----
+[`[04 REPORT]`](https://2409324124.github.io/xeon-max-9470c-benchmarks/report/) · [`[SOURCE]`](https://github.com/2409324124/xeon-max-9470c-benchmarks)
 
-## 精选项目
+<!-- NC artwork: https://github.com/Nano-Collective/nanocoder/blob/main/assets/nanocoder-icon.png -->
+<a href="https://github.com/Nano-Collective/nanocoder">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/project-nano-mobile.svg" />
+  <img src="assets/project-nano.svg" width="840" alt="Nanocoder · Nano Collective 终端 Coding Agent；我是维护者。" />
+</picture>
+</a>
 
-| 项目 | 方向 | 简介 |
-| --- | --- | --- |
-| [adaptive_psych_system](https://github.com/2409324124/adaptive_psych_system) | AI + 心理测评 | 基于费舍尔信息论与 PyTorch 的自适应心理测评系统，探索更高效、个体化的心理状态评估。 |
-| [Qwen-Desktop-Assistant-Classic](https://github.com/2409324124/Qwen-Desktop-Assistant-Classic) | AI Agent / 桌面助手 | 基于 Qwen 的经典桌面助手项目，聚焦本地工具调用、交互体验与真实任务执行。 |
-| [xeon-max-9470c-benchmarks](https://github.com/2409324124/xeon-max-9470c-benchmarks) | 性能测试 / Benchmark | 面向 Intel Xeon Max 9470C 的基准测试记录，用实验数据评估硬件性能与计算负载表现。 |
+[`[05 UPSTREAM]`](https://github.com/Nano-Collective/nanocoder) · [`[DOCS]`](https://docs.nanocollective.org/nanocoder)
 
----
+<a href="https://github.com/2409324124/Qwen-Desktop-Assistant-Classic">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/project-latex-mobile.svg" />
+  <img src="assets/project-latex.svg" width="840" alt="Qwen3 LaTeX Correction · 自然语言数学描述转规范 LaTeX；LoRA SFT、评测与本地推理。" />
+</picture>
+</a>
 
-## 技术栈
-
-### 编程与深度学习
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="56" height="56" alt="Python"/><br>
-      <sub>Python</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="56" height="56" alt="PyTorch"/><br>
-      <sub>PyTorch</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="56" height="56" alt="NumPy"/><br>
-      <sub>NumPy</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="56" height="56" alt="Pandas"/><br>
-      <sub>Pandas</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="56" height="56" alt="Jupyter"/><br>
-      <sub>Jupyter</sub>
-    </td>
-  </tr>
-</table>
-
-### AI 工具与应用
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/huggingface.svg" width="56" height="56" alt="Hugging Face"/><br>
-      <sub>Hugging Face</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gradio.svg" width="56" height="56" alt="Gradio"/><br>
-      <sub>Gradio</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ollama.svg" width="56" height="56" alt="Ollama"/><br>
-      <sub>Ollama</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://api.iconify.design/lucide:bot.svg?color=%23FF4D4D" width="56" height="56" alt="AI Agent"/><br>
-      <sub>AI Agent</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/coze.svg" width="56" height="56" alt="Coze"/><br>
-      <sub>Coze</sub>
-    </td>
-  </tr>
-</table>
-
-### 研究与创作
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/2409324124/2409324124/main/assets/icons/spss.svg" width="56" height="56" alt="SPSS"/><br>
-      <sub>SPSS</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://api.iconify.design/material-symbols:analytics-outline-rounded.svg?color=%23003366" width="56" height="56" alt="NVivo"/><br>
-      <sub>NVivo</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftexcel.svg" width="56" height="56" alt="Excel"/><br>
-      <sub>Excel</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="56" height="56" alt="Adobe Photoshop"/><br>
-      <sub>Photoshop</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="56" height="56" alt="Adobe Premiere Pro"/><br>
-      <sub>Premiere Pro</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="56" height="56" alt="Adobe Illustrator"/><br>
-      <sub>Illustrator</sub>
-    </td>
-  </tr>
-</table>
+[`[06 SOURCE]`](https://github.com/2409324124/Qwen-Desktop-Assistant-Classic) · [`[MODEL]`](https://huggingface.co/xu2409324124/qwen3-4b-latex-correction-v3-bf16)
 
 
----
+<a href="https://github.com/felinics/Memoh">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/project-memoh-mobile.svg" />
+  <img src="assets/project-memoh.svg" width="840" alt="Memoh · 维护者社群参与，产品建议与反馈。" />
+</picture>
+</a>
 
-## 想交流的话
+[`[07 UPSTREAM]`](https://github.com/felinics/Memoh)
 
-如果你也关心深度学习、心理学、神经科学、智能体系统，或者任何试图理解人和帮助人的技术，欢迎找我交流。
+<a href="https://github.com/MilkSU-Official/milksu">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/project-milksu-mobile.svg" />
+  <img src="assets/project-milksu.svg" width="840" alt="MilkSU · 维护者社群参与，产品建议与反馈。" />
+</picture>
+</a>
 
-- 邮箱：<xu2409324124@gmail.com>
-- GitHub：[@2409324124](https://github.com/2409324124)
+[`[08 UPSTREAM]`](https://github.com/MilkSU-Official/milksu)
 
----
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/section-about-mobile.svg" />
+  <img src="assets/section-about.svg" width="840" alt="02 / 技术栈" />
+</picture>
 
-<p align="center">
-  这份主页也会继续迭代。它记录的不只是项目，也是我把人文关怀和技术实践慢慢接起来的过程。
-</p>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/tech-stack-mobile.svg" />
+  <img src="assets/tech-stack.svg" width="840" alt="ANSI 技术栈：Python、PyTorch、FastAPI、MCP、Ubuntu、Docker" />
+</picture>
+
+[`[WRITING]`](https://bbs.shinonome.xyz/) · [`[RESEARCH]`](https://osf.io/preprints/socarxiv/xhky9_v1) · [`[ORCID]`](https://orcid.org/0009-0008-6625-0148)
+
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/section-archive-mobile.svg" />
+  <img src="assets/section-archive.svg" width="840" alt="03 / 历史档案" />
+</picture>
+
+<details>
+<summary>[+] OPEN ARCHIVE / 其他项目与开源贡献</summary>
+
+<a href="https://2409324124.github.io/programming-visualization/examples/">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/archive-viz-mobile.svg" />
+  <img src="assets/archive-viz.svg" width="840" alt="Programming Visualization" />
+</picture>
+</a>
+
+[`[OPEN]`](https://2409324124.github.io/programming-visualization/examples/)
+
+<a href="https://github.com/2409324124/claude-code-multi-provider-skill">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/archive-router-mobile.svg" />
+  <img src="assets/archive-router.svg" width="840" alt="Claude Code Multi-Provider Skill" />
+</picture>
+</a>
+
+[`[OPEN]`](https://github.com/2409324124/claude-code-multi-provider-skill)
+
+<a href="https://github.com/2409324124/deepseek-codex-adapter">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/archive-deepseek-mobile.svg" />
+  <img src="assets/archive-deepseek.svg" width="840" alt="DeepSeek Codex Adapter" />
+</picture>
+</a>
+
+[`[OPEN]`](https://github.com/2409324124/deepseek-codex-adapter)
+
+<a href="https://github.com/2409324124/riichi-mahjong-recognition">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/archive-mahjong-mobile.svg" />
+  <img src="assets/archive-mahjong.svg" width="840" alt="Riichi Mahjong Recognition" />
+</picture>
+</a>
+
+[`[OPEN]`](https://github.com/2409324124/riichi-mahjong-recognition)
+
+<a href="https://github.com/RVC-Boss/GPT-SoVITS/pull/2767">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/archive-voice-mobile.svg" />
+  <img src="assets/archive-voice.svg" width="840" alt="GPT-SoVITS PR #2767" />
+</picture>
+</a>
+
+[`[OPEN]`](https://github.com/RVC-Boss/GPT-SoVITS/pull/2767)
+
+<a href="https://huggingface.co/spaces/xu2409324124/lstm-translator">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/archive-lstm-mobile.svg" />
+  <img src="assets/archive-lstm.svg" width="840" alt="LSTM Translator" />
+</picture>
+</a>
+
+[`[OPEN]`](https://huggingface.co/spaces/xu2409324124/lstm-translator)
+
+
+Bilibili 机器学习 / 深度学习技术内容，以及 AI 教学 PPT、讲稿与 PyTorch 教学代码。
+
+</details>
+
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/section-snake-mobile.svg" />
+  <img src="assets/section-snake.svg" width="840" alt="04 / 贡献轨迹" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2409324124/2409324124/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2409324124/2409324124/output/github-contribution-grid-snake.svg" />
+  <img width="840" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/2409324124/2409324124/output/github-contribution-grid-snake.svg" />
+</picture>
+
+[`[VIEW SNAKE / ORIGINAL SIZE]`](https://raw.githubusercontent.com/2409324124/2409324124/output/github-contribution-grid-snake.svg)
+
+`+---------------- END OF TRANSMISSION ----------------+`
+
+[`[RETURN TO HOME]`](https://shinonome.xyz/)

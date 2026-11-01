@@ -10,6 +10,15 @@
   <img src="assets/section-projects.svg" width="840" alt="01 / 项目目录" />
 </picture>
 
+<a href="https://github.com/2409324124/blender-asset-workflow-skill">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/project-blender-mobile.svg" />
+  <img src="assets/project-blender.svg" width="840" alt="Blender Asset Workflow · Plan the geometry. Validate the blockout. Refine with visual feedback. Agent skill for Codex / Claude Code / DSH." />
+</picture>
+</a>
+
+[`[00 SKILL]`](https://github.com/2409324124/blender-asset-workflow-skill) · `CODEX / CLAUDE CODE / DSH`
+
 <a href="https://shinonome.xyz/tu22/">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/project-tu22-mobile.svg" />
